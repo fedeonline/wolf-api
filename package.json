@@ -1,0 +1,30 @@
+{
+  "name": "wolf-api",
+  "version": "0.1.0",
+  "author": "Federico Pugnaloni <fedeonline2.0@gmail.com>",
+  "description": "Wolf API wrapper",
+  "contributors": [
+  ],
+  "keywords": [
+    "wolf",
+    "wolf-api"
+  ],
+  "homepage": "https://github.com/fedeonline/wolf-api",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fedeonline/wolf-api.git"
+  },
+  "main": "./lib/wolf.js",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "xtend": "2.x",
+    "request": "2.x"
+  },
+  "devDependencies": {
+    "mocha": "latest",
+    "grunt": "~0.4.2",
+    "grunt-jsdoc": "~0.5.1"
+  }
+}
