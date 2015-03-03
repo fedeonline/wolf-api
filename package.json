@@ -19,7 +19,6 @@
     "node": ">=0.10.0"
   },
   "dependencies": {
-    "xtend": "2.x",
     "request": "2.x"
   },
   "devDependencies": {
