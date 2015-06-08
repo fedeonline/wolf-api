@@ -1,6 +1,6 @@
 {
   "name": "wolf-api",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Federico Pugnaloni <fedeonline2.0@gmail.com>",
   "description": "Wolf API wrapper",
   "contributors": [
